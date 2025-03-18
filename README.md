@@ -11,14 +11,14 @@
 </div>
 
 <div align="center">
-<img align="center" width=500 src="https://github.com/NavajasThomaz/RepositoryModel/blob/main/static/images/image_titulo.png?raw=true" />
-<h1>RepositoryModel</h>
+<img align="center" width=300 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
+<h1>Scikit-Learn-Tutorial</h>
 </div>
 
 <div align="center">
 </div>
 
-##### <div align="center">Esse projeto é uma base para produzir repositórios no GitHub de forma organizada e padronizada.</div>
+##### <div align="center">Scikit-learn é uma biblioteca Python de código aberto que oferece ferramentas simples e eficientes para aprendizado de máquina e análise de dados, amplamente utilizada por cientistas de dados e engenheiros de Machine Learning. Neste repositório estão arquivos de explicações e exemplos de uso dessa biblioteca.</div>
 
 ##### <div align="center">🎥Video explicativo em produção.🎥</div>
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NavajasThomaz&repo=RepositoryModel&theme=transparent)](https://github.com/NavajasThomaz/RepositoryModel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NavajasThomaz&repo=Scikit-Learn-Tutorial&theme=transparent)](https://github.com/NavajasThomaz/Scikit-Learn-Tutorial)
 
 </div>
 
