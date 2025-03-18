@@ -40,6 +40,18 @@
 
 1. [Introdução](#Introdução)
 2. [Instruções](#Instruções)
+3. [Classificação](./Classificação/Classificação.md)
+4. [Regressão](./Regressão/Regressão.md)
+5. [Clusterização](./Clustering/Clustering.md)
+6. [Redução de Dimensionalidade](#Redução-de-Dimensionalidade)
+7. [Seleção de Modelo](#Seleção-de-Modelo)
+8. [Pré-processamento](#Pré-processamento)
+9. [Pipelines](#Pipelines)
+10. [Métricas de Avaliação](#Métricas-de-Avaliação)
+11. [Utilidades](#Utilidades)
+12. [Persistência de Modelo](#Persistência-de-Modelo)
+13. [Datasets](#Datasets)
+14. [Extensibilidade](#Extensibilidade)
 
     </details>
 </div>
@@ -51,6 +63,10 @@
 
 ### Objetivo
 A template repository demonstrating best practices for project organization. Provides a structured starting point for enhanced collaboration and maintainability.
+
+```cmd
+pip install scikit-learn
+```
 
 <div align="center">
 <img align="center" width=500 src="https://github.com/NavajasThomaz/RepositoryModel/blob/main/static/images/diretorios.png?raw=true" />
