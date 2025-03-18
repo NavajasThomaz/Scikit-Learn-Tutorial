@@ -20,6 +20,8 @@
 
 ##### <div align="center">Scikit-learn é uma biblioteca Python de código aberto que oferece ferramentas simples e eficientes para aprendizado de máquina e análise de dados, amplamente utilizada por cientistas de dados e engenheiros de Machine Learning. Neste repositório estão arquivos de explicações e exemplos de uso dessa biblioteca.</div>
 
+##### <div align="center">**Pré-Requisitos:** É recomendado estudar a biblioteca <a href=https://github.com/NavajasThomaz/Pandas-Tutorial>Pandas</a> para um melhor entendimento de Dataframes utilizados nesse projeto.</div>
+
 ##### <div align="center">🎥Video explicativo em produção.🎥</div>
 
 ##### <div align="center"><a href=https://youtu.be>🖥️Link para Video explicativo.🖥️</a></div>
