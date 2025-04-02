@@ -42,9 +42,9 @@
 
 1. [Introdução](#Introdução)
 2. [Instruções](#Instruções)
-3. [Classificação](./Classificação/Classificação.md)
-4. [Regressão](./Regressão/Regressão.md)
-5. [Clusterização](./Clustering/Clustering.md)
+3. [Classificação](./notebooks/Classificação/Classificação.md)
+4. [Regressão](./notebooks/Regressão/Regressão.md)
+5. [Clusterização](./notebooks/Clustering/Clustering.md)
 6. [Redução de Dimensionalidade](#Redução-de-Dimensionalidade)
 7. [Seleção de Modelo](#Seleção-de-Modelo)
 8. [Pré-processamento](#Pré-processamento)
